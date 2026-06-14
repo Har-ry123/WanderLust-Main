@@ -1,2 +1,2 @@
 # WanderLust-Main
- Run command- nide app.js
+ Run command- node app.js
